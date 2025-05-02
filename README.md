@@ -54,7 +54,7 @@ top_10_restaurents_precize/
 
 ## ✅ Features
 
-- Human-like search typing
+- Human-like search typing to avoid captcha
 - Converts abbreviated review counts (e.g., "2.5K" → 2500)
 - Exception handling for missing elements and file errors
 - Modular and reusable codebase
