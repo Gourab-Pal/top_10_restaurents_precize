@@ -1,0 +1,52 @@
+{
+    "Spice Terrace": {
+        "rating": "4.4",
+        "reviews": 2200,
+        "address": "24, JW Marriott Bengaluru, 1, Vittal Mallya Rd"
+    },
+    "Lotus Pavilion, ITC Gardenia - Restaurants In Bengaluru": {
+        "rating": "4.5",
+        "reviews": 3000,
+        "address": "1, Residency Rd"
+    },
+    "Shiro Bengaluru": {
+        "rating": "4.4",
+        "reviews": 5100,
+        "address": "3rd Floor, 222, Vittal Mallya Rd"
+    },
+    "Olive Beach": {
+        "rating": "4.5",
+        "reviews": 8100,
+        "address": "16, Wood St, near Karnataka Bank"
+    },
+    "JW Kitchen": {
+        "rating": "4.3",
+        "reviews": 3600,
+        "address": "24, 1, Vittal Mallya Rd"
+    },
+    "Toast & Tonic": {
+        "rating": "4.6",
+        "reviews": 5100,
+        "address": "14/1, Wood St"
+    },
+    "Karavalli": {
+        "rating": "4.5",
+        "reviews": 3900,
+        "address": "Vivanta, 66, Residency Rd"
+    },
+    "Farmlore": {
+        "rating": "4.8",
+        "reviews": 1300,
+        "address": "Survey No:67, Mohan"
+    },
+    "Rim Naam": {
+        "rating": "4.5",
+        "reviews": 1200,
+        "address": "M G, The Oberoi Bengaluru, 37-39, Mahatma Gandhi Road, Road"
+    },
+    "Toit Brewpub": {
+        "rating": "4.5",
+        "reviews": 59000,
+        "address": "6/2, 100 Feet Rd, near Drops Total Spirites"
+    }
+}
