@@ -108,8 +108,8 @@ You’ll be prompted to input a city name. The script:
 ## 🔒 Requirements
 
 ```text
-selenium
-pytest
+selenium 4.27
+pytest 8.3.5
 ```
 
 Install via:
